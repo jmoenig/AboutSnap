@@ -2,6 +2,8 @@
 
 Snap! is our visual programming language. You code by stacking together graphical blocks rather than typing words. Your program is always alive, ready to be tried, tested and changed as your ideas evolve. Snap! supports imperative, functional and object oriented programming paradigms.
 
+[Snap! Video]: https://www.youtube.com/watch?v=b-EWj7xN90U	"Coding with Snap!"
+
 ### Who uses Snap!?
 
 Colleges and high schools use Snap! to teach computer science. Students use Snap! to create games, interactive stories, artwork and simulations, to analyze data, drill down on media, control robots and to invent new forms of expressing themselves.
