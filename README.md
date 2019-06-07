@@ -2,7 +2,7 @@
 
 Snap! is our visual programming language. You code by stacking together graphical blocks rather than typing words. Your program is always alive, ready to be tried, tested and changed as your ideas evolve. Snap! supports imperative, functional and object oriented programming paradigms.
 
-https://www.youtube.com/watch?v=b-EWj7xN90U
+<iframe width="921" height="518" src="https://www.youtube.com/embed/b-EWj7xN90U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Who uses Snap!?
 
@@ -139,4 +139,4 @@ Write your own JavaScript extensions.
 Web APIs, Frequency Distribution Analysis, Infinite Precision Numbers, Text-to-Speech, World Map,
 JSON, CSV,  etc. etc.
 
-
+![maps](img/maps.png)
