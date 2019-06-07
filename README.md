@@ -116,6 +116,8 @@ Sprites can inherit local state and behavior from another. Rather than through c
 
 ![sine-curve](img/sine-curve.png)
 
+![sine_wave](img/sine_wave.png)
+
 Objects can be composed into aggregations by nesting sprites into part-whole relationships. This lets you easily create virtual puppets and robots.
 
 ### Debugging
