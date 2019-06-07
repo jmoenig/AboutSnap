@@ -56,6 +56,8 @@ Mastering recursion sets apart the computer scientists from the mere coders. Wit
 
 In addition to global and sprite-local variables Snap! also offers script-local variables, letting you factor code into reusable modules. Like in most modern programming languages Snap!'s variables are lexically scoped and support nested functions and closures. Function parameters are mutable and their value can be exposed to the caller. Snap!'s variables are dynamically typed and support heterogeneous lists.
 
+![multiplication_table](img/multiplication_table.png)
+
 ### Lambda - First-Class Blocks
 
 Procedures as data is another powerful idea in computing. It allows you to go meta on ideas. In addition to blocks Snap! also features "rings" around blocks transforming expressions into anonymous functions that capture their environment of origin. This lets you build your own blocks that accept other blocks and scripts as inputs, such as C-shaped control structures. You can also store blocks in lists or variables, and even make a block that returns a function (another block).
@@ -94,6 +96,8 @@ Continuations are an advanced construct in functional programming giving you acc
 
 Data structures are what matters most in a programming language. Data is at the heart of modelling a simulation or a digital twin. Data becomes information by adding structure and context. Snap!'s basic data structures, lists, are first-class citizens. You can assemble complex data structures out of atomic data types (numbers, text, Booleans) and combine them with other lists (lists of lists) and objects. Snap!'s lists are untyped allowing for easy heterogeneous collections of data . This lets you express any data structure you desire.
 
+![heterogeneous_data](img/heterogeneous_data.png)
+
 ### Media Computation
 
 Remixing pictures and sounds into interactive animations and video games through programming is hugely fun. But with Snap! we go further, letting you drill down to the bare metal of pixel and sample data to examine, manipulate and transform bits of information into new computational artefacts. Snap! not only lets you perform higher-order functions on low-level media components, it even lets you do so live on the video-feed of your webcam or the audio stream of your microphone.
@@ -123,6 +127,10 @@ Objects can be composed into aggregations by nesting sprites into part-whole rel
 ### Debugging
 
 Snap! supports debugging through a variety of data monitoring widgets, and by allowing visible "slow-mo" and single stepping. Because Snap's programs are always "live" debugging is achieved by inspecting the actual programming as it is running instead of a post-mortem stack trace.
+
+![controls](img/controls.png)
+
+![visible_stepping](img/visible_stepping.png)
 
 ### Extensions
 
