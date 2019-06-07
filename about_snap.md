@@ -98,7 +98,7 @@ Remixing pictures and sounds into interactive animations and video games through
 
 ![posterize script pic](img/posterize.png)
 
-![jens - posterized](img/jens_ posterized.png)
+![jens - posterized](img/jens_posterized.png)
 
 ### Concurrency
 
