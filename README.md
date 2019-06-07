@@ -2,7 +2,7 @@
 
 Snap! is our visual programming language. You code by stacking together graphical blocks rather than typing words. Your program is always alive, ready to be tried, tested and changed as your ideas evolve. Snap! supports imperative, functional and object oriented programming paradigms.
 
-<iframe width="921" height="518" src="https://www.youtube.com/embed/b-EWj7xN90U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=b-EWj7xN90U
 
 ### Who uses Snap!?
 
