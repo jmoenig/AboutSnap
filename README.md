@@ -4,15 +4,29 @@ Snap! is our visual programming language. You code by stacking together graphica
 
 https://www.youtube.com/watch?v=b-EWj7xN90U
 
+
+
 ### Who uses Snap!?
 
 Colleges and high schools use Snap! to teach computer science. Students use Snap! to create games, interactive stories, artwork and simulations, to analyze data, drill down on media, control robots and to invent new forms of expressing themselves.
+
+
 
 ### The Beauty and Joy of Computing
 
 Snap! has been engineered to support UC Berkeley's introductory computer science curriculum named "The Beauty and Joy of Computing" (BJC).
 
 
+
+### What Others Say about Snap!
+
+> "Snap! takes the best ideas, then freshly and coherently synthesizes them into a visual programming language that kids can use, but is also satisfying to professional programmers"
+
+-Don Hopkins (The Sims)
+
+> "I had heard good things about SNAP but never tried it out myself. . . it was a GREAT experience.
+
+-Susan Klimczak (Boston South End Technology Center)
 
 ## For Students
 
@@ -22,6 +36,8 @@ Snap! has been engineered to support UC Berkeley's introductory computer science
 
 ## For Researchers and Developers
 
+
+
 ## Snap! Concepts
 
 > "Snap! is Scheme disguised as Scratch" 
@@ -29,6 +45,8 @@ Snap! has been engineered to support UC Berkeley's introductory computer science
 -Brian Harvey
 
 On the outside Snap! looks and feels just like Scratch. But inside it provides expressive concepts for abstraction otherwise only found in the most advanced and sophisticated programming languages from AI research. Snap! supports multiple programming paradigms such as imperative, structured programming, functional programming and object-oriented programming. These make Snap! suitable for an intellectually rigorous introduction to computer science at the college and high school level.
+
+
 
 ### User Defined Procedures and Functions
 
@@ -39,6 +57,8 @@ Snap!'s tagline is "Build Your Own Blocks". Defining custom functions is at the 
 Any kind of block that you see in Snap! you can also define yourself: Procedures (commands), functions (reporters), predicates ("Boolean inputs") and event listeners (hat blocks). Custom blocks can be defined globally ("for every sprite") or as methods of a single actor ("for this sprite only").
 
 ![max](img/max.png)
+
+
 
 ### Proper Tail Recursion
 
@@ -52,17 +72,23 @@ Mastering recursion sets apart the computer scientists from the mere coders. Wit
 
 ![index_of](img/index_of.png)
 
+
+
 ### Lexically Scoped Variables
 
 In addition to global and sprite-local variables Snap! also offers script-local variables, letting you factor code into reusable modules. Like in most modern programming languages Snap!'s variables are lexically scoped and support nested functions and closures. Function parameters are mutable and their value can be exposed to the caller. Snap!'s variables are dynamically typed and support heterogeneous lists.
 
 ![multiplication_table](img/multiplication_table.png)
 
+
+
 ### Lambda - First-Class Blocks
 
 Procedures as data is another powerful idea in computing. It allows you to go meta on ideas. In addition to blocks Snap! also features "rings" around blocks transforming expressions into anonymous functions that capture their environment of origin. This lets you build your own blocks that accept other blocks and scripts as inputs, such as C-shaped control structures. You can also store blocks in lists or variables, and even make a block that returns a function (another block).
 
 ![ycomb](img/ycomb.png)
+
+
 
 ### Higher Order Functions
 
@@ -72,6 +98,8 @@ Snap! comes with built-in blocks that let you map, filter, enumerate and reduce 
 
 Higher order functions are the superpowers of computing. Snap! provides the ingredients you need to define your own uber-functions. While our pedagogy is that using higher oder functions should be easy we also believe that there should be no ceiling to what you can express in a programming language. 
 
+
+
 ### Full Closures
 
 Snap!'s lexical scope supports an inner function to access the local variables of an outer function even after the outer function has terminated. This lets you create abstract data structures from reified dispatch procedures.
@@ -80,11 +108,15 @@ Snap!'s lexical scope supports an inner function to access the local variables o
 
 The idea that temporary local data becomes persistent for a surviving inner function lets us demystify object oriented programming.  
 
+
+
 ### User Defined Control Structures
 
 Control structures are typically what you memorize when you learn a new programming language. Snap! lets you build your own C-shaped blocks to make your own control structures. Being able define program control in your own functions lets you discover how to make a new programming language yourself. 
 
 ![for_loop](img/for_loop.png)
+
+
 
 ### First-Class Continuations
 
@@ -92,11 +124,15 @@ Continuations are an advanced construct in functional programming giving you acc
 
 ![catch-throw](img/catch-throw.png)
 
+
+
 ### Heterogeneous Data
 
 Data structures are what matters most in a programming language. Data is at the heart of modelling a simulation or a digital twin. Data becomes information by adding structure and context. Snap!'s basic data structures, lists, are first-class citizens. You can assemble complex data structures out of atomic data types (numbers, text, Booleans) and combine them with other lists (lists of lists) and objects. Snap!'s lists are untyped allowing for easy heterogeneous collections of data . This lets you express any data structure you desire.
 
 ![heterogeneous_data](img/heterogeneous_data.png)
+
+
 
 ### Media Computation
 
@@ -106,11 +142,15 @@ Remixing pictures and sounds into interactive animations and video games through
 
 ![jens - posterized](img/jens_posterized.png)
 
+
+
 ### Concurrency
 
 Snap!'s virtual machine can run many scripts for many actors (sprites) at the same time in parallel. Individual programs can be triggered by events, and if several scripts react to the same event they all run concurrently. This lets you model agent-based systems in a decentralized modular way rather than cramming everything into a single main "game loop". Snap! also lets you explicitly launch new threads programmatically, so your procecures can take advantage of parallelism to achieve complex behavior in a logical and expressive way.
 
 ![chord](img/chord.png)
+
+
 
 ### Object Oriented Programming
 
@@ -124,6 +164,8 @@ Sprites can inherit local state and behavior from another. Rather than through c
 
 Objects can be composed into aggregations by nesting sprites into part-whole relationships. This lets you easily create virtual puppets and robots.
 
+
+
 ### Debugging
 
 Snap! supports debugging through a variety of data monitoring widgets, and by allowing visible "slow-mo" and single stepping. Because Snap's programs are always "live" debugging is achieved by inspecting the actual programming as it is running instead of a post-mortem stack trace.
@@ -131,6 +173,8 @@ Snap! supports debugging through a variety of data monitoring widgets, and by al
 ![controls](img/controls.png)
 
 ![visible_stepping](img/visible_stepping.png)
+
+
 
 ### Extensions
 
