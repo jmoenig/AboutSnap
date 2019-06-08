@@ -32,6 +32,10 @@ Snap<i>!</i> has been engineered to support UC Berkeley's introductory computer 
 
 ## For Educators
 
+### Gradual Introduction
+
+Because Snap! doesn't present the definition of a custom block unless the user manually opens it, educators can teach how to use individual custom blocks - especially control structures and functional techniques like map and reduce - in a gradual way. Initially, let users get experienced with the block as though it were any primitive. Once familiar, share the block's definition and foster discussion on how it works. This helps to prompt ideas of creative ways to use the block, as well as of totally new custom blocks one might like to create.
+
 ## For Parents
 
 ## For Researchers and Developers
