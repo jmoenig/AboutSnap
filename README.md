@@ -14,13 +14,13 @@ Colleges and high schools use Snap<i>!</i> to teach computer science. Students u
 
 ### The Beauty and Joy of Computing
 
-Snap<i>!</i> has been engineered to support UC Berkeley's introductory computer science curriculum named "The Beauty and Joy of Computing" (BJC).
+Snap<i>!</i> has been engineered to support UC Berkeley's introductory computer science curriculum named "<a href="https://bjc.berkeley.edu">The Beauty and Joy of Computing</a>" (BJC).
 
 
 
 ### What Others Say about Snap<i>!</i>
 
-> "Snap<i>!</i> takes the best ideas, then freshly and coherently synthesizes them into a visual programming language that kids can use, but is also satisfying to professional programmers"
+> "Snap<i>!</i> takes the best ideas, then freshly and coherently synthesizes them into a visual programming language that kids can use, but is also satisfying to professional programmers."
 
 -Don Hopkins (The Sims)
 
@@ -42,7 +42,7 @@ Snap<i>!</i> has been engineered to support UC Berkeley's introductory computer 
 
 > "Snap<i>!</i> is Scheme disguised as Scratch" 
 
--Brian Harvey
+-Snap<i>!</i> co-developer Brian Harvey
 
 On the outside Snap<i>!</i> looks and feels just like Scratch. But inside it provides expressive concepts for abstraction otherwise only found in the most advanced and sophisticated programming languages from AI research. Snap<i>!</i> supports multiple programming paradigms such as imperative, structured programming, functional programming and object-oriented programming. These make Snap<i>!</i> suitable for an intellectually rigorous introduction to computer science at the college and high school level.
 
@@ -50,7 +50,7 @@ On the outside Snap<i>!</i> looks and feels just like Scratch. But inside it pro
 
 ### User Defined Procedures and Functions
 
-Snap<i>!</i>'s tagline is "Build Your Own Blocks". Defining custom functions is at the heart of extending any programming language. It gives you the power to add anything you want to the system. Miss a construct that you like in another programming language? Go ahead and build it in Snap<i>!</i>
+Snap<i>!</i>'s tagline is "Build Your Own Blocks". Defining custom functions is at the heart of extending any programming language. It gives you the power to add anything you want to the system. Miss a construct that you like in another programming language? Go ahead and build it in Snap<i>!</i>.
 
 ![square_block](img/square_block.png)
 
@@ -68,7 +68,7 @@ Recursion is a powerful idea in computing because it lets you accomplish huge ta
 
 ![spiral](img/spiral.png)
 
-Mastering recursion sets apart the computer scientists from the mere coders. With stack overflows out of the way there's nothing to stop you from inventing beautiful fractals oder recursing over large data sets.
+Mastering recursion sets apart the computer scientists from the mere coders. With stack overflows out of the way there's nothing to stop you from inventing beautiful fractals or recursing over large data sets.
 
 ![index_of](img/index_of.png)
 
@@ -76,7 +76,7 @@ Mastering recursion sets apart the computer scientists from the mere coders. Wit
 
 ### Lexically Scoped Variables
 
-In addition to global and sprite-local variables Snap<i>!</i> also offers script-local variables, letting you factor code into reusable modules. Like in most modern programming languages Snap<i>!</i>'s variables are lexically scoped and support nested functions and closures. Function parameters are mutable and their value can be exposed to the caller. Snap<i>!</i>'s variables are dynamically typed and support heterogeneous lists.
+In addition to global and sprite-local variables Snap<i>!</i> also offers script-local variables, letting you factor code into reusable modules. As in most modern programming languages Snap<i>!</i>'s variables are lexically scoped and support nested functions and closures. Function parameters are mutable and their value can be exposed to the caller. Snap<i>!</i>'s variables are dynamically typed and support heterogeneous lists.
 
 ![multiplication_table](img/multiplication_table.png)
 
@@ -96,7 +96,7 @@ Snap<i>!</i> comes with built-in blocks that let you map, filter, enumerate and 
 
 ![acronym](img/acronym.png)
 
-Higher order functions are the superpowers of computing. Snap<i>!</i> provides the ingredients you need to define your own uber-functions. While our pedagogy is that using higher oder functions should be easy we also believe that there should be no ceiling to what you can express in a programming language. 
+Higher order functions are the superpowers of computing. Snap<i>!</i> provides the ingredients you need to define your own uber-functions. While our pedagogy is that using higher order functions should be easy we also believe that there should be no ceiling to what you can express in a programming language. 
 
 
 
@@ -120,7 +120,7 @@ Control structures are typically what you memorize when you learn a new programm
 
 ### First-Class Continuations
 
-Continuations are an advanced construct in functional programming giving you access to a part of the evaluator state. Capturing a continuation is like keeping your thumb on a certain page of a book as you close it, so later you can reopen it and continue reading where you left off. Snap<i>!</i>'s continuations let you build certain fancy constrol structures in Snap<i>!</i> itself, rather than having to write them in another programming language:
+Continuations are an advanced construct giving you access to a part of the evaluator state. Capturing a continuation is like keeping your thumb on a certain page of a book as you close it, so later you can reopen it and continue reading where you left off. Snap<i>!</i>'s continuations let you build certain fancy constrol structures in Snap<i>!</i> itself, rather than having to write them in another programming language:
 
 ![catch-throw](img/catch-throw.png)
 
