@@ -141,7 +141,9 @@ Remixing pictures and sounds into interactive animations and video games through
 
 ![A fairly complex script which constantly updates the screen with a version of the sprite's costume (image), modified according to the script. The script posterizes the image into three distinct colors according to a threshold based on the mouse position.](img/posterize.png)
 
-[An example result of running the script: a photo of Jens (Snap! co-developer) posterized into dark blue, middle green, and light yellow colors.](img/jens_posterized.png)
+ 
+
+![An example result of running the script: a photo of Jens (Snap! co-developer) posterized into dark blue, middle green, and light yellow colors.](img/jens_posterized.png)
 
 
 
