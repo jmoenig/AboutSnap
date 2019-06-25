@@ -20,13 +20,11 @@ Snap! has been engineered to support UC Berkeley's introductory computer science
 
 ### What Others Say about Snap!
 
-> "Snap! takes the best ideas, then freshly and coherently synthesizes them into a visual programming language that kids can use, but is also satisfying to professional programmers."
+> "Snap! takes the best ideas, then freshly and coherently synthesizes them into a visual programming language that kids can use, but is also satisfying to professional programmers."<br>
+> *-Don Hopkins (The Sims)*
 
--Don Hopkins (The Sims)
-
-> "I had heard good things about SNAP but never tried it out myself. . . it was a GREAT experience.
-
--Susan Klimczak (Boston South End Technology Center)
+> "I had heard good things about SNAP but never tried it out myself. . . it was a GREAT experience.<br>
+> *-Susan Klimczak (Boston South End Technology Center)*
 
 ## For Students
 
@@ -44,9 +42,8 @@ Because Snap! doesn't present the definition of a custom block unless the user m
 
 ## Snap! Concepts
 
-> "Snap! is Scheme disguised as Scratch" 
-
--Snap! co-developer Brian Harvey
+> "Snap! is Scheme disguised as Scratch"<br>
+> *-Snap! co-developer Brian Harvey*
 
 On the outside Snap! looks and feels just like Scratch. But inside it provides expressive concepts for abstraction otherwise only found in the most advanced and sophisticated programming languages from AI research. Snap! supports multiple programming paradigms such as imperative, structured programming, functional programming and object-oriented programming. These make Snap! suitable for an intellectually rigorous introduction to computer science at the college and high school level.
 
