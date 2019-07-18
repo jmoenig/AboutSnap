@@ -4,7 +4,7 @@ Snap! is our visual programming language. You code by stacking together graphica
 
 https://www.youtube.com/watch?v=b-EWj7xN90U
 
-
+Hi all
 
 ### Who uses Snap!?
 
