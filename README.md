@@ -27,14 +27,18 @@ Snap! has been engineered to support UC Berkeley's introductory computer science
 > *-Susan Klimczak (Boston South End Technology Center)*
 
 ## For Students
+Are you a student looking to get started with coding? Or maybe you're an advanced coder but looking for something different? Then Snap! is ideal for you. Snap! has a low entry point, which means it's easy to get started and create projects. But Snap! also includes advanced features, such as functioning. To get started, take a look at the resources available for self-learning - or, you can just jump in and start playing around with Snap! 
 
 ## For Educators
+Are you looking for an intuitive, easy-to-use programming language to teach your students? Snap! is an ideal offering for you. Snap! has a low-entry point for completely new coders but also includes advanced features if you've got experienced learners in your class. Take a look around and check out the resources we have available for teachers to get you started. 
 
 ### Gradual Introduction
 
 Because Snap! doesn't present the definition of a custom block unless the user manually opens it, educators can teach how to use individual custom blocks - especially control structures and functional techniques like map and reduce - in a gradual way. Initially, let users get experienced with the block as though it were any primitive. Once familiar, share the block's definition and foster discussion on how it works. This helps to prompt ideas of creative ways to use the block, as well as of totally new custom blocks one might like to create.
 
 ## For Parents
+
+So, you'd like your kids to start learning about the world of coding? Snap! is the ideal place to start. We don't collect any data about your kids - all they need to sign up is an email address to create their account. Yes, we ask for their date of birth but we do not store this information - it's just to clarify they're over 13 to create the account. Why not create your own account and share your projects with your kids? 
 
 ## For Researchers and Developers
 
